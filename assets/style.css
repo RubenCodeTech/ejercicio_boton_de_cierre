@@ -1,0 +1,26 @@
+#allSections{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
+.sections{
+    text-align: center;
+    flex-direction: column;
+    gap: 5px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    width: 250px;
+}
+#button1{
+display: flex;
+}
+#button2{
+display: flex;
+}
+#button3{
+display: flex;   
+}
